@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=F1e2e9&height=300&section=header&text=Ya_e_un%20&fontColor=714a59&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F1e2e9&height=300&section=header&text=Ya_e_un%20&fontColor=714a59&fontSize=30" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=yaeun&show_icons=true&theme=date_night">
